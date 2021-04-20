@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "C347_Lesson1_PS_SG_Holiday"
